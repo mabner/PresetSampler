@@ -145,7 +145,7 @@ Please avoid uploading private photographs, catalogues or personal information u
 
 ## Licence
 
-**Copyright © 2026 Preset Sampler. All rights reserved.**
+**Copyright © 2026 Marcos Leite. All rights reserved.**
 
 Preset Sampler is proprietary software. Public availability of its installation packages does not grant permission to redistribute, modify, reverse-engineer or commercially reuse its software beyond the terms of the applicable licence.
 
